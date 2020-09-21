@@ -1,8 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "CE0I3TPCMcai//CKDuQWb4VsNoOYs7A+rK0vFT9oziEBAeM654DMUi6u5wqqc1hhpBbsPHw8D/f9DcEhzYe84Q==",
+  "dgSpecHash": "zYNmIgicfPkh4Zl+cXP/WV32NWwjHJmg1MrVq/SZf5Z+FKo1AIhGh6MHbzrsAnPPYP77nUw+E1IKxHs772hZvA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ArcanjjO\\Desktop\\wiz\\wiz_api\\Api\\Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ArcanjjO\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
+    "C:\\Users\\ArcanjjO\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.8\\microsoft.aspnetcore.jsonpatch.3.1.8.nupkg.sha512",
+    "C:\\Users\\ArcanjjO\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.8\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.8.nupkg.sha512",
+    "C:\\Users\\ArcanjjO\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ArcanjjO\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\ArcanjjO\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\ArcanjjO\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.8\\microsoft.extensions.configuration.fileextensions.3.1.8.nupkg.sha512",
+    "C:\\Users\\ArcanjjO\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.8\\microsoft.extensions.configuration.json.3.1.8.nupkg.sha512",
+    "C:\\Users\\ArcanjjO\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.8\\microsoft.extensions.fileproviders.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\ArcanjjO\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.8\\microsoft.extensions.fileproviders.physical.3.1.8.nupkg.sha512",
+    "C:\\Users\\ArcanjjO\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.8\\microsoft.extensions.filesystemglobbing.3.1.8.nupkg.sha512",
+    "C:\\Users\\ArcanjjO\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\ArcanjjO\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\ArcanjjO\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\ArcanjjO\\.nuget\\packages\\restsharp\\106.11.5\\restsharp.106.11.5.nupkg.sha512"
+  ],
   "logs": []
 }

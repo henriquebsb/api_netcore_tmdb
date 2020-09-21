@@ -2,6 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Domain.Handlers;
+using Domain.Repositories;
+using Infrastructure.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -26,6 +29,14 @@ namespace Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+            services.AddMvc().AddNewtonsoftJson();
+
+            //Injection
+            services.AddTransient<MovieHandler, MovieHandler>();
+            services.AddTransient<IMovieRepository, MovieRepository>();
+
+            services.AddTransient<IGenreRepository, GenreRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
