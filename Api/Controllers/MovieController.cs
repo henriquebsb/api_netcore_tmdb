@@ -1,14 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Http;
 using System.Threading.Tasks;
-using Domain.CommandResult;
-using Domain.Entities;
 using Domain.Handlers;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using RestSharp;
 
 namespace Api.Controllers
 {
