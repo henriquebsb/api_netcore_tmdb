@@ -13,7 +13,7 @@ A api foi construída em 3 camadas:
 3. Infraestructure
 
 #### Api
-Esta parte responsável por receber as requisições
+Parte responsável por receber as requisições e direcionar a execução.
 
 #### Domain
 Parte responsável pelos modelos e por conta do projeto ser menor, coloquei junto a camada as manipulações de eventos no diretorio Handlers.
