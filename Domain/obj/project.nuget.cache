@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tA3thJazHdoEX3cshxKbhBVhUW2ezbPZka/rTKr3d8wFE37j0mHQwvAWxtixNJ16i3Vv/SmZn/nqV83/RVmciw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ArcanjjO\\Desktop\\wiz\\wiz_api\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ArcanjjO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ArcanjjO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ArcanjjO\\.nuget\\packages\\restsharp\\106.11.5\\restsharp.106.11.5.nupkg.sha512"
+  ],
+  "logs": []
+}
