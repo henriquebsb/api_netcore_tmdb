@@ -1,3 +1,7 @@
+Selecionar Idioma :   
+                    [Português](https://github.com/virgnet/api-modelo-asp.net-core/blob/main/README.md)
+                    [Inglês](https://github.com/virgnet/api-modelo-asp.net-core/blob/main/README-en.md)
+
 ## Introdução
 Projeto onde consulta filmes e gêneros da api [TMDb](https://developers.themoviedb.org/3) e retorna os filmes com sua data de lançamento e seus gêneros. 
  
