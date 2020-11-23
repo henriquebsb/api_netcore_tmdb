@@ -1,5 +1,5 @@
-Select Language :   
-                    [Portuguese](https://github.com/virgnet/api-modelo-asp.net-core/blob/main/README.md)
-                    [English](https://github.com/virgnet/api-modelo-asp.net-core/blob/main/README-en.md)
+## Select Language :   
+- [[Portuguese]](https://github.com/henriquebsb/api_netcore_tmdb/blob/master/README.md)
+- [[English]](https://github.com/henriquebsb/api_netcore_tmdb/blob/master/README-en.md)
 
  
